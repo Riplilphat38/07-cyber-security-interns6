@@ -54,7 +54,7 @@ d. `R0cks***HeavyM3tal!`
 
 Characteres numbers:19
 
-![image alt]()
+![image alt](https://github.com/Riplilphat38/07-cyber-security-interns6/blob/1642f83464dada827c8e07e5c77ad2d15cb912f5/Screenshot%20From%202025-09-30%2020-10-36.png)
 
 e. `jesuisfort`
 
