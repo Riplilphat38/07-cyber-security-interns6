@@ -94,9 +94,9 @@ Length is the Most Important Factor. A long password made of simple words can 
  * Brute Force Attack: This is a "trial and error" method where an attacker uses a program to systematically try every possible combination of characters until it finds the correct password. The time it takes depends entirely on the password's length and complexity.
    
 * Dictionary Attack: A more efficient version of a brute force attack. Instead of trying every random combination, the program tries a list of common words, phrases, and previously leaked passwords (e.g., password, letmein, admin123). This attack quickly breaks passwords based on single dictionary words.
-* 
+  
   8. Summary: How Password Complexity Affects Security
-  --
+     --
 
 Password complexity (using uppercase, lowercase, numbers, symbols) and length directly increase the
 computational effort required to crack a password through brute force or dictionary attacks.
