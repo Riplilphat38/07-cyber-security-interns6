@@ -34,30 +34,43 @@ Characteres numbers:21
 
 b. `Warw!thus666`
 (lowercase,uppercas,number and symbole) 
+
 Characteres numbers:12
-![image alt]()
+
+![image alt](https://github.com/Riplilphat38/07-cyber-security-interns6/blob/dc013e31cc4e5e1ebfad0ef46439ebd799b3d6d9/Screenshot%20From%202025-09-30%2020-04-48.png)
 
 c. `2203660489`
+
 (number)
+
 Characteres numbers:10
-![image alt]()
+
+![image alt](https://github.com/Riplilphat38/07-cyber-security-interns6/blob/dc013e31cc4e5e1ebfad0ef46439ebd799b3d6d9/Screenshot%20From%202025-09-30%2020-08-53.png)
 
 
 d. `R0cks***HeavyM3tal!`
 
 (lowercase,uppercas,number and symbole)
+
 Characteres numbers:19
+
 ![image alt]()
 
 e. `jesuisfort`
+
 (lowercase)
+
 Characteres numbers:10
 
-![image alt]()
+![image alt](https://github.com/Riplilphat38/07-cyber-security-interns6/blob/dc013e31cc4e5e1ebfad0ef46439ebd799b3d6d9/Screenshot%20From%202025-09-30%2020-14-26.png)
+
 f.`BANGALORE`
+
 (uppercase)
+
 Characteres numbers:9
-![image alt]()
+
+![image alt](https://github.com/Riplilphat38/07-cyber-security-interns6/blob/dc013e31cc4e5e1ebfad0ef46439ebd799b3d6d9/Screenshot%20From%202025-09-30%2020-17-55.png)
 
 3.Best Practices & Tips Learned from the Evaluation
 --
