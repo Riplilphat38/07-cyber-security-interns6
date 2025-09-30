@@ -88,6 +88,7 @@ Length is the Most Important Factor. A long password made of simple words can 
 6. ﻿﻿﻿Uniqueness is Critical. Use a different password for every single account. This prevents a breach at one service from compromising all your other accounts.
     
 7. ﻿﻿﻿Use a Password Manager. Remembering dozens of long, complex, and unique passwords is impossible for a human. A password manager (like Bitwarden, 1Password, or LastPass) generates, stores, and auto-fills them for you. You only need to remember one strong master password.
+
    
 4. Common Password Attacks(Brute Force, Dictionary)
    --
@@ -95,7 +96,7 @@ Length is the Most Important Factor. A long password made of simple words can 
    
 * Dictionary Attack: A more efficient version of a brute force attack. Instead of trying every random combination, the program tries a list of common words, phrases, and previously leaked passwords (e.g., password, letmein, admin123). This attack quickly breaks passwords based on single dictionary words.
   
-  8. Summary: How Password Complexity Affects Security
+  5. Summary: How Password Complexity Affects Security
      --
 
 Password complexity (using uppercase, lowercase, numbers, symbols) and length directly increase the
