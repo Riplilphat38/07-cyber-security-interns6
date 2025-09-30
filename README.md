@@ -74,6 +74,7 @@ Characteres numbers:9
 
 3.Best Practices & Tips Learned from the Evaluation
 --
+
 1.Based on the test results, here are the key best practices for creating strong passwords:
 Length is the Most Important Factor. A long password made of simple words can be much stronger than a short, complex one. Aim for at least 12-16 characters.
    
